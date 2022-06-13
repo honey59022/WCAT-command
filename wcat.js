@@ -99,7 +99,7 @@ else{
 
     
     ** -b and -n is not used togethere 
-    ** wcat is the global command for this 
+    ** wcat is the global command for this wcat.js file
 */
 
 
